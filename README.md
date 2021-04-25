@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Arduino, AI, Python
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Robotics
-- 📫 How to reach me ...sukhmansinghbhogal@gmail.com
+- 📫 How to reach me ... sukhmansinghbhogal@gmail.com
 
 <!---
 SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
