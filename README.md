@@ -4,8 +4,6 @@
 
 Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
-I have experience of working the field of astronomy and aerospace. I am part of GLEE (Great Lunar Expedition for Everyone) in colaboration with NASA, University of Colorado and COSGC. I have worked as a trainee researcher at Orbitx India Aerospace and mentored several teams in IASC Asteriod Hunt Campaign.
-
 
 ## IDE
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
