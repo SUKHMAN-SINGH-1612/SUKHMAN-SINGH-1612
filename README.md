@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUKHMAN-SINGH-1612&theme=dark)](https://github.com/SUKHMAN-SINGH-1612)
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&repo=Data-Science-Projects)](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&repo=Applied-Data-Science-Capstone-SpaceX)](https://github.com/SUKHMAN-SINGH-1612/Applied-Data-Science-Capstone-SpaceX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=Applied-Data-Science-Capstone-SpaceX)](https://github.com/SUKHMAN-SINGH-1612/Applied-Data-Science-Capstone-SpaceX)
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
 
