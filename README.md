@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SUKHMAN-SINGH-1612&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ## GitHub Page
 [![GitHub Page](https://img.shields.io/badge/GitHub-Page-blue?style=for-the-badge&logo=github)](https://sukhman-singh-1612.github.io/data_science/)
 
