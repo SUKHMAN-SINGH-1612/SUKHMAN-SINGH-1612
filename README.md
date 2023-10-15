@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 
 ## Credly Badges
 [<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/>](https://www.credly.com/badges/884aeebe-7928-4d88-a7f9-d7af21135def/public_url)
-<img src='https://images.credly.com/size/220x220/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png' width="75" height="75"/>
-<img src='https://images.credly.com/size/220x220/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png' width="75" height="75"/>
-<img src='https://images.credly.com/size/220x220/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png' width="75" height="75"/>
-<img src='https://images.credly.com/size/220x220/images/5e544cd5-d368-4f16-8348-5abfd71bd049/IBM_AI_-Deep_Learning_Essentials_with_Keras.png' width="75" height="75"/>
-<img src='https://images.credly.com/size/220x220/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png' width="75" height="75"/>
+[<img src='https://images.credly.com/size/220x220/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png' width="75" height="75"/>](https://www.credly.com/badges/0c33bdfd-44e1-424a-a0a3-3b031df87ce4/public_url)
+[<img src='https://images.credly.com/size/220x220/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png' width="75" height="75"/>](https://www.credly.com/badges/0aecd805-4c06-4d70-8eae-27b101ae4132/public_url)
+[<img src='https://images.credly.com/size/220x220/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png' width="75" height="75"/>](https://www.credly.com/badges/8ea65992-8e39-4f35-9ad4-ddcecceaac7b/public_url)
+[<img src='https://images.credly.com/size/220x220/images/5e544cd5-d368-4f16-8348-5abfd71bd049/IBM_AI_-Deep_Learning_Essentials_with_Keras.png' width="75" height="75"/>](https://www.credly.com/badges/8ea65992-8e39-4f35-9ad4-ddcecceaac7b/public_url)
+[<img src='https://images.credly.com/size/220x220/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png' width="75" height="75"/>](https://www.credly.com/badges/e8050e02-a8ec-45a8-8c27-522b86d82a42/public_url)
 <img src='https://images.credly.com/size/220x220/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png' width="75" height="75"/>
