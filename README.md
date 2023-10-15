@@ -23,15 +23,19 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 <img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/> <img src='https://images.credly.com/size/220x220/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png' width="75" height="75"/>
+<img src='https://images.credly.com/size/220x220/images/5e544cd5-d368-4f16-8348-5abfd71bd049/IBM_AI_-Deep_Learning_Essentials_with_Keras.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png' width="75" height="75"/>
+<img src='https://images.credly.com/size/220x220/images/1447954e-9923-4703-a647-eac80e5f0682/image.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png' width="75" height="75"/>
-<img src='https://images.credly.com/size/220x220/images/1447954e-9923-4703-a647-eac80e5f0682/image.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png' width="75" height="75"/>
+<img src='https://images.credly.com/size/220x220/images/130907f0-5b9f-47f3-ba63-073508050096/Computer_Vision_and_and_Image_Processing_Essentials.png' width="75" height="75"/>
+<img src='https://images.credly.com/size/220x220/images/7d59a314-d9bd-4ed9-80dd-9f3af94d77d1/Data_Analytics_Essentials.png' width="75" height="75"/>
+
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&langs_count=8&theme=dark&hide_border=true"/>](https://github.com/SUKHMAN-SINGH-1612)
