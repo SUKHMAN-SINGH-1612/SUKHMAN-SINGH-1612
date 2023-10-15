@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 ](https://www.coursera.org/account/accomplishments/specialization/certificate/4YYSZ8JRV4GN) [![Static Badge](https://img.shields.io/badge/Applied%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K) [![Static Badge](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/W6B3E8FDJ9TR)
 
 ## Credly Badges
-[<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/>](https://www.credly.com/earner/earned/share/884aeebe-7928-4d88-a7f9-d7af21135def)
+[<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/>](https://www.credly.com/badges/884aeebe-7928-4d88-a7f9-d7af21135def/public_url)
 <img src='https://images.credly.com/size/220x220/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png' width="75" height="75"/>
