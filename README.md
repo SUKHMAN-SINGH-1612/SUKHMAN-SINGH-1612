@@ -22,7 +22,9 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 ## Credly Badges
 <img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/> <img src='https://images.credly.com/size/220x220/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png' width="75" height="75"/>
 <img src='https://images.credly.com/size/220x220/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png' width="75" height="75"/>
-
+<img src='https://images.credly.com/size/220x220/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png' width="75" height="75"/>
+<img src='https://images.credly.com/size/220x220/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png' width="75" height="75"/>
+<img src='https://images.credly.com/size/220x220/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png' width="75" height="75"/>
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&langs_count=8&theme=dark&hide_border=true"/>](https://github.com/SUKHMAN-SINGH-1612)
