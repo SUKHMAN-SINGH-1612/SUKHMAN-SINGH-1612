@@ -8,14 +8,21 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering)
+
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
 
 ## Skills
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=whit) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612) 
+
 ## Courses
 [![Static Badge](https://img.shields.io/badge/Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)
 ](https://www.coursera.org/account/accomplishments/specialization/certificate/4YYSZ8JRV4GN) [![Static Badge](https://img.shields.io/badge/Applied%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K) [![Static Badge](https://img.shields.io/badge/Introduction%20to%20Data%20Science-Specialization-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/specialization/certificate/W6B3E8FDJ9TR)
+
+## Credly Badges
+<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/> <img src='https://images.credly.com/size/220x220/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png' width="75" height="75"/>
+<img src='https://images.credly.com/size/220x220/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png' width="75" height="75"/>
+
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&langs_count=8&theme=dark&hide_border=true"/>](https://github.com/SUKHMAN-SINGH-1612)
