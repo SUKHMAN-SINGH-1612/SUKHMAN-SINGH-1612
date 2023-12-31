@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 
 ## Credly Badges
 [<img src='https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png' width="75" height="75"/>](https://www.credly.com/badges/884aeebe-7928-4d88-a7f9-d7af21135def/public_url)
+[<img src='https://images.credly.com/size/680x680/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png' width="75" height="75"/>](https://www.credly.com/badges/e9c6686d-5c04-4e7a-831b-85bf661d9749/public_url)
 [<img src='https://images.credly.com/size/220x220/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png' width="75" height="75"/>](https://www.credly.com/badges/0c33bdfd-44e1-424a-a0a3-3b031df87ce4/public_url)
 [<img src='https://images.credly.com/size/220x220/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png' width="75" height="75"/>](https://www.credly.com/badges/0aecd805-4c06-4d70-8eae-27b101ae4132/public_url)
 [<img src='https://images.credly.com/size/220x220/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png' width="75" height="75"/>](https://www.credly.com/badges/a097b3ec-e782-40de-99bd-64a6c0a67978/public_url)
