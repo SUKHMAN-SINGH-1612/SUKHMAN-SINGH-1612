@@ -63,5 +63,3 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![An image of @sukhmansingh1612's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukhmansingh1612)](https://holopin.io/@sukhmansingh1612)
-
