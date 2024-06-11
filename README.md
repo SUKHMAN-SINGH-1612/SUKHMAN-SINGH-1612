@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SUKHMAN-SINGH-1612&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Trophie Stats
-![](https://github-profile-trophy.vercel.app/?username=SUKHMAN-SINGH-1612&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=SUKHMAN-SINGH-1612&theme=onedark)
 
 ## Portfolio Website
 [![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://www.sukhmansingh.tech)
