@@ -44,8 +44,7 @@ Welcome to my GitHub profile! I'm Sukhman Singh, a Data Science enthusiast with 
 
 
 ## GitHub Analytics
-[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&utcOffset=8)](https://github.com/SUKHMAN-SINGH-1612) <img src ="https://github-readme-activity-graph.vercel.app/graph?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&utcOffset=8" width = 550 heigth = 500>
-
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUKHMAN-SINGH-1612&show_icons=true&theme=dark&utcOffset=8)](https://github.com/SUKHMAN-SINGH-1612)
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SUKHMAN-SINGH-1612&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
